@@ -1,0 +1,438 @@
+table,tr,td{
+    border: 1px solid black;
+}
+table{
+    height: 75vh;
+    width: 75vw;
+}
+td{
+    height: 25%;
+    width: 25%;
+}
+
+.ch{
+    border: 1px solid black;
+    height: 100px;
+    width: 600px;
+    background-color: aquamarine;
+}
+
+
+.one{
+    border: 1px solid black;
+    height: 100px;
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    background-color: gray;
+}
+.d1{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    color: red;
+}
+.d2{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+   
+}
+.d3{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.d4{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.d5{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.d6{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.d7{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.two{
+    border: 1px solid black;
+    height: 100px;
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    background-color: gray;
+}
+.a{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.b{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    color: red;
+
+    
+}
+.c{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.d{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.e{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.f{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    color: red;
+    
+}
+.g{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.three{
+    border: 1px solid black;
+    height: 100px;
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    background-color: grey;
+}
+.c1{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.c2{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.c3{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.c4{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.c5{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.c6{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.c7{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.four{
+    border: 1px solid black;
+    height: 100px;
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    background-color: grey;
+}
+.a1{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    color: red;
+}
+.a2{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.a3{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.a4{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.a5{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.a6{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.a7{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.five{
+    border: 1px solid black;
+    height: 100px;
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    background-color: grey;
+}
+.x1{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.x2{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.x3{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    color: red;
+}
+.x4{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.x5{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.x6{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.x7{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.six{
+    border: 1px solid black;
+    height: 100px;
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    background-color: grey;
+}
+.m1{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px; 
+    color: red;
+}
+.m2{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
